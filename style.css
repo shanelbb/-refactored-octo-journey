@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+header {
+  height: 50vh;
+  background-color: moccasin;
+}
+
+h1 {
+  color: orangered;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: rebeccapurple;
+  text-transform: uppercase;
+}
+
+p {
+}
